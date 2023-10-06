@@ -1,6 +1,6 @@
 "use strict";
 let ligado = false;
-let nome = "felipe";
+let nome = "Ciro";
 let idade = 30;
 let altura = 1.9;
 let nulo = null;
@@ -8,7 +8,7 @@ let indefinido = undefined;
 let retorno;
 let retornoView = false;
 let produto = {
-    name: "felipe",
+    name: "Ciro",
     cidade: "sp",
     idade: 30,
 };

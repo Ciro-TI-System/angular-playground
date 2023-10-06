@@ -4,7 +4,7 @@
 
 //tipos primitivos: boolean, number, string
 let ligado: boolean = false;
-let nome: string = "felipe";
+let nome: string = "Ciro";
 let idade: number = 30;
 let altura: number = 1.9;
 
@@ -18,7 +18,7 @@ let retornoView: any = false;
 
 //objeto - sem previsibilidade
 let produto: object = {
-  name: "felipe",
+  name: "Ciro",
   cidade: "sp",
   idade: 30,
 };
@@ -40,8 +40,8 @@ let meuProduto: ProdutoLoja = {
  * arrays
  */
 
-let dados: string[] = ["felipe", "ana", "adriana"];
-let dados2: Array<string> = ["felipe", "ana", "adriana"];
+let dados: string[] = ["Roberta", "Juliana", "Carla"];
+let dados2: Array<string> = ["Joana", "Ana", "Adriana"];
 
 let infos: (string | number)[] = [322, "felipe"];
 
