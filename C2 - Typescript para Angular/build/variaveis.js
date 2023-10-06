@@ -17,8 +17,8 @@ let meuProduto = {
     preco: 89.99,
     unidades: 5,
 };
-let dados = ["felipe", "ana", "adriana"];
-let dados2 = ["felipe", "ana", "adriana"];
+let dados = ["Roberta", "Juliana", "Carla"];
+let dados2 = ["Joana", "Ana", "Adriana"];
 let infos = [322, "felipe"];
 let boleto = ["agua conta", 199.9, 32342342];
 dados.pop();
